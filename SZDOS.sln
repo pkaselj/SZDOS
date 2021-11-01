@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Convo", "Convo\Convo.vcxproj", "{577FA74B-59EE-4DEA-BEF4-C3272C96E889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577FA74B-59EE-4DEA-BEF4-C3272C96E889}.Debug|x64.ActiveCfg = Debug|x64
+		{577FA74B-59EE-4DEA-BEF4-C3272C96E889}.Debug|x64.Build.0 = Debug|x64
+		{577FA74B-59EE-4DEA-BEF4-C3272C96E889}.Debug|x86.ActiveCfg = Debug|Win32
+		{577FA74B-59EE-4DEA-BEF4-C3272C96E889}.Debug|x86.Build.0 = Debug|Win32
+		{577FA74B-59EE-4DEA-BEF4-C3272C96E889}.Release|x64.ActiveCfg = Release|x64
+		{577FA74B-59EE-4DEA-BEF4-C3272C96E889}.Release|x64.Build.0 = Release|x64
+		{577FA74B-59EE-4DEA-BEF4-C3272C96E889}.Release|x86.ActiveCfg = Release|Win32
+		{577FA74B-59EE-4DEA-BEF4-C3272C96E889}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F07734-37ED-4DD0-BFF3-06BB54A6E1E4}
+	EndGlobalSection
+EndGlobal
